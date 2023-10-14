@@ -7,7 +7,7 @@ I’m Camelia Kholoud
 
 ### Projects
 
-- **BaladeTonChien**: <br />
+- **BaladeTonChien** <br />
   Created as part of a two-week bootcamp project.<br />
   The project is designed to make it easy for dog owners to discover nearby dog walks and connect with other dog owners for group walks in the Lyon region.<br />
   📌 BaladeTonChien relies on Ruby gems, PostgreSQL, Cloudinary, and Mapbox for its functionality. All of the data is sourced from the Grand Lyon API, with the inclusion of some additional walks through JSON.
@@ -17,13 +17,13 @@ I’m Camelia Kholoud
   - Password: azerty
 
   
-- **CostumeMania**: <br />
+- **CostumeMania** <br />
   Created as part of a one week bootcamp marketplace project.<br />
   It offers a costume library where users can browse, search, and filter costumes, as well as rent or list their own costumes easily. <br />
   📌 The application relies on Ruby gems, PostgreSQL, StimulusJS, and Cloudinary for its functionality. All data is user-generated.
 
 - **Cocktails** <br />
    A ReactJS application created as a learning project to gain experience in React development, utilizing "create-react-app." <br />
-   The application sources its data from JSON, and utilizes Algolia for all filtering.
+   📌 The application sources its data from JSON, and utilizes Algolia for all filtering.
 
   
