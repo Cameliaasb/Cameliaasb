@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I’m Camelia Kholoud
-🚀 I finished Le Wagon bootcamp in september 2023
-🌱 I’m looking for a Full Stack developer position
-📫 Contact me at camelia.assobhei@gmail.com
+I’m Camelia Kholoud <br />
+🚀 I finished Le Wagon bootcamp in september 2023 <br />
+🌱 I’m looking for a Full Stack developer position <br />
+📫 Contact me at camelia.assobhei@gmail.com <br />
 
 ### Projects
 
