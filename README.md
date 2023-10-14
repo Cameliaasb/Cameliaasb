@@ -1,16 +1,29 @@
 ### Hi there 👋
 
-<!--
-**Cameliaasb/Cameliaasb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Camelia Kholoud
+🚀 I finished Le Wagon bootcamp in september 2023
+🌱 I’m looking for a Full Stack developer position
+📫 Contact me at camelia.assobhei@gmail.com
 
-Here are some ideas to get you started:
+### Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **BaladeTonChien**: <br />
+  Created as part of a two-week bootcamp project.<br />
+  The project is designed to make it easy for dog owners to discover nearby dog walks and connect with other dog owners for group walks in the Lyon region.<br />
+  📌 BaladeTonChien relies on Ruby gems, PostgreSQL, Cloudinary, and Mapbox for its functionality. All of the data is sourced from the Grand Lyon API, with the inclusion of some additional walks through JSON.
+
+  You can access BaladeTonChien using the following [URL](https://balade-ton-chien-df0ea100d8e5.herokuapp.com/) with a demo account :
+  - Email: test@gmail.com
+  - Password: azerty
+
+  
+- **CostumeMania**: <br />
+  Created as part of a one week bootcamp marketplace project.<br />
+  It offers a costume library where users can browse, search, and filter costumes, as well as rent or list their own costumes easily. <br />
+  📌 The application relies on Ruby gems, PostgreSQL, StimulusJS, and Cloudinary for its functionality. All data is user-generated.
+
+- **Cocktails** <br />
+   A ReactJS application created as a learning project to gain experience in React development, utilizing "create-react-app." <br />
+   The application sources its data from JSON, and utilizes Algolia for all filtering.
+
+  
