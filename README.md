@@ -12,7 +12,7 @@ I’m Camelia Kholoud <br />
   The project is designed to make it easy for dog owners to discover nearby dog walks and connect with other dog owners for group walks in the Lyon region.<br />
   📌 BaladeTonChien relies on Ruby gems, PostgreSQL, Cloudinary, and Mapbox for its functionality. All of the data is sourced from the Grand Lyon API, with the inclusion of some additional walks through JSON.
 
-  You can access BaladeTonChien using the following [URL](https://balade-ton-chien-df0ea100d8e5.herokuapp.com/) with a demo account :
+  You can access [BaladeTonChien](https://balade-ton-chien-df0ea100d8e5.herokuapp.com/) or [CostumeMania](https://costume-mania-5f7608dd0856.herokuapp.com/) with a demo account :
   - Email: test@gmail.com
   - Password: azerty
 
