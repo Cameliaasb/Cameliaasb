@@ -21,7 +21,7 @@ If you have any advice, recommendations, or ideas on how I can improve them, ple
 
 - **TravelPlanner** <br />
   A rails application created as a learning project to practice TDD.<br />
-  TripPlanner is a platform designed to simplify travel planning and coordination. It provides an intuitive interface  with features such as chat, open topics, to-do lists, and updates to streamline the planning process. <br />
+  It is a platform designed to simplify travel planning and coordination. It provides an intuitive interface  with features such as chat, open topics, to-do lists, and updates to streamline the planning process. <br />
   📌 The application relies on Ruby gems, PostgreSQL, StimulusJS, Redis, and Cloudinary for its functionality. All data is user-generated. Testing is done with Minitest.
 
 - **Cocktails** <br />
