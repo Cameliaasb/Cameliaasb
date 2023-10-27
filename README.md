@@ -7,7 +7,7 @@ I’m Camelia Kholoud <br />
 
 ### Projects 
 These projects are a work in progress, and I am actively working to enhance and refine their features.  <br />
-If you have any advice, recommendations, or ideas on how I can improve this project, please don't hesitate to reach out. 
+If you have any advice, recommendations, or ideas on how I can improve them, please don't hesitate to reach out. 
 
 - **BaladeTonChien** <br />
   Created as part of a two-week bootcamp project.<br />
