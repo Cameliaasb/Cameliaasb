@@ -17,7 +17,7 @@ If you have any advice, recommendations, or ideas on how I can improve them, ple
 - **CostumeMania** <br />
   Created as part of a one week bootcamp marketplace project.<br />
   It offers a costume library where users can browse, search, and filter costumes, as well as rent or list their own costumes easily. <br />
-  📌 The application relies on Ruby gems, PostgreSQL, StimulusJS, and Cloudinary for its functionality. All data is user-generated. Testing is done with Minitest. It is deployed on Heroku.
+  📌 The application relies on Ruby gems, PostgreSQL, StimulusJS, Algolia, and Cloudinary for its functionality. All data is user-generated. Testing is done with Minitest. It is deployed on Heroku.
 
 - **TravelPlanner** <br />
   A rails application created as a learning project to practice TDD.<br />
