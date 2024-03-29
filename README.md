@@ -2,7 +2,7 @@
 
 I’m Camelia Kholoud <br />
 🚀 I finished Le Wagon bootcamp in september 2023 after a career start in Finance <br />
-📫 Contact me at camelia.assobhei@gmail.com <br />
+📫 Contact me at camelia.asb@gmail.com <br />
 
 ### Projects 
 🚧 My projects are a work in progress. If you have any advice, recommendations, or ideas on how I can improve them, please don't hesitate to reach out.  <br />
